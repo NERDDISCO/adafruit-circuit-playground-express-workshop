@@ -208,4 +208,5 @@ You can find all possible functions for the `Adafruit_CircuitPlayground`-library
 
 # Thanks
 
-A big thanks to https://github.com/mirabellej for their [open-source workshop material](https://github.com/mirabellej/Codame/) that heavly inspired this workshop. 
+* A big thanks to https://github.com/mirabellej for their [open-source workshop material](https://github.com/mirabellej/Codame/) that heavly inspired this workshop
+* A super big thanks to [Synoa](https://synoa.de) for giving me the time to prepare the workshop for our team
