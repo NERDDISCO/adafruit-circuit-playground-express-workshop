@@ -1,0 +1,23 @@
+#include <Adafruit_CircuitPlayground.h>
+
+float sound_value;
+
+void setup() {
+  Serial.begin(9600);
+  CircuitPlayground.begin();
+}
+
+
+
+void loop() {
+  // Take 10 milliseconds of sound data to calculate
+  sound_value = CircuitPlayground.mic.soundPressureLevel(100);
+  
+  Serial.println(sound_value);
+
+  delay(1000);
+
+  // Challenge: Use the soundSensor to detect sound, if the sound is beyond a certain
+  // threshold, you turn on the NeoPixels and spread that value accross all the NeoPixels, 
+  // changing the color the higher the sound_value goes
+}
