@@ -194,6 +194,7 @@ You want some "proper" hardware to trigger certain actions on the CPX? Then the 
 
 # Further examples
 
+* Advanced usage of the SoundSensor combined with logging: [10_SoundSensor_logging](sketches/10_SoundSensor_logging) (thanks to @gaganis for adding this)
 * You can find even more ready-to-run [examples from Adafruit](https://github.com/adafruit/Adafruit_CircuitPlayground/tree/master/examples)! 
 * [Simon Game](https://learn.adafruit.com/circuit-playground-simple-simon/playing-the-game)
 
