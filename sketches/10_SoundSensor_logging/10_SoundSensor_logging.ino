@@ -17,7 +17,6 @@ void loop() {
 
   delay(1000);
 
-  // Challenge: Use the soundSensor to detect sound, if the sound is beyond a certain
-  // threshold, you turn on the NeoPixels and spread that value accross all the NeoPixels, 
-  // changing the color the higher the sound_value goes
+  // Challenge: Take a look at the README in sketches/10_SoundSensor_logging for 
+  // what is needed to get the data into a graph
 }
